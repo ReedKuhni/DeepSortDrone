@@ -6,6 +6,7 @@ Hungarian Alrorithm and Deep methods such as CNN for apperance similarity.
 1. Clone Repository:
 ```bash
 git clone https://github.com/ReedKuhni/DeepSortDrone.git
-```bash
+
 2. Create virtual environment and install requirements:
+```bash
 pip install -r requirements.txt
