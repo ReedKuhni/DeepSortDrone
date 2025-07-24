@@ -8,4 +8,6 @@ Hungarian Alrorithm and Deep methods such as CNN for apperance similarity.
 git clone https://github.com/ReedKuhni/DeepSortDrone.git
 ```
 2. Create virtual environment and install requirements:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
